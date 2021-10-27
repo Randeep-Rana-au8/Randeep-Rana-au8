@@ -3,7 +3,7 @@
 I am Randeep Rana from Haridwar, India who is a Full Stack Developer, Reactjs enthusiast, Next.js, Node.js, Express, MongoDb, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
 - 😄 Pronouns: He/him
-- ⚡ Latest Projects: [Bankkr](https://bankkr.netlify.app/) 🚀 [Supaexpress](https://supaexpress.herokuapp.com/) 🚀
+- ⚡ Latest Projects: [Rock-Paper-Scissors](https://rana-rps.netlify.app/) 🚀 [Bankkr](https://bankkr.netlify.app/) 🚀 [Supaexpress](https://supaexpress.herokuapp.com/) 🚀
 
 ![Randeep Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randeep-Rana-au8&show_icons=true&include_all_commits=true)
 
